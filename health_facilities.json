@@ -1,0 +1,362 @@
+[
+  {
+    "name": "John F. Kennedy Medical Center",
+    "type": "Hospital",
+    "county": "Montserrado",
+    "district": "Sinkor",
+    "contact": "231-77-123-456",
+    "gps": "6.3157,-10.7975",
+    "services": "Emergency, Surgery, ICU, Maternity, Pediatrics, Cardiology, Oncology"
+  },
+  {
+    "name": "ELWA Hospital",
+    "type": "Hospital",
+    "county": "Montserrado",
+    "district": "Paynesville",
+    "contact": "231-88-234-567",
+    "gps": "6.2895,-10.7466",
+    "services": "General Medicine, Surgery, Maternity, Pediatrics, Laboratory"
+  },
+  {
+    "name": "Redemption Hospital",
+    "type": "Hospital",
+    "county": "Montserrado",
+    "district": "New Kru Town",
+    "contact": "231-77-345-678",
+    "gps": "6.2742,-10.7963",
+    "services": "Emergency, General Medicine, Maternity, Laboratory, Pharmacy"
+  },
+  {
+    "name": "Stella Maris Polytechnic Health Center",
+    "type": "Health Center",
+    "county": "Montserrado",
+    "district": "Monrovia",
+    "contact": "231-88-456-789",
+    "gps": "6.3008,-10.7969",
+    "services": "Outpatient Care, Vaccinations, Family Planning, Laboratory"
+  },
+  {
+    "name": "SKD Sports Complex Clinic",
+    "type": "Clinic",
+    "county": "Montserrado",
+    "district": "Paynesville",
+    "contact": "231-77-567-890",
+    "gps": "6.2957,-10.7635",
+    "services": "General Medicine, Sports Medicine, Physiotherapy"
+  },
+  {
+    "name": "Phebe Hospital",
+    "type": "Hospital",
+    "county": "Bong",
+    "district": "Suakoko",
+    "contact": "231-88-678-901",
+    "gps": "6.9167,-9.5833",
+    "services": "General Medicine, Surgery, Maternity, Pediatrics, Mental Health, Laboratory"
+  },
+  {
+    "name": "Bong County Hospital",
+    "type": "Hospital",
+    "county": "Bong",
+    "district": "Gbarnga",
+    "contact": "231-77-789-012",
+    "gps": "6.9986,-9.4722",
+    "services": "Emergency, General Medicine, Surgery, Maternity, Laboratory"
+  },
+  {
+    "name": "Cuttington University Health Center",
+    "type": "Health Center",
+    "county": "Bong",
+    "district": "Suakoko",
+    "contact": "231-88-890-123",
+    "gps": "6.9028,-9.5694",
+    "services": "Student Health, General Medicine, Vaccinations"
+  },
+  {
+    "name": "Salala Health Center",
+    "type": "Health Center",
+    "county": "Bong",
+    "district": "Salala",
+    "contact": "231-77-901-234",
+    "gps": "6.8333,-9.2500",
+    "services": "Primary Care, Maternity, Child Health, Vaccinations"
+  },
+  {
+    "name": "Ganta United Methodist Hospital",
+    "type": "Hospital",
+    "county": "Nimba",
+    "district": "Ganta",
+    "contact": "231-88-012-345",
+    "gps": "7.2333,-8.9667",
+    "services": "General Medicine, Surgery, Maternity, Pediatrics, Laboratory, Pharmacy"
+  },
+  {
+    "name": "Saclepea Health Center",
+    "type": "Health Center",
+    "county": "Nimba",
+    "district": "Saclepea",
+    "contact": "231-77-123-456",
+    "gps": "7.4167,-8.7500",
+    "services": "Primary Care, Maternity, Child Health, Vaccinations"
+  },
+  {
+    "name": "Tappita Hospital",
+    "type": "Hospital",
+    "county": "Nimba",
+    "district": "Tappita",
+    "contact": "231-88-234-567",
+    "gps": "6.2833,-8.8167",
+    "services": "General Medicine, Surgery, Emergency, Laboratory"
+  },
+  {
+    "name": "Karnplay Health Center",
+    "type": "Health Center",
+    "county": "Nimba",
+    "district": "Karnplay",
+    "contact": "231-77-345-678",
+    "gps": "7.1333,-8.8000",
+    "services": "Primary Care, Maternity, Vaccinations, Laboratory"
+  },
+  {
+    "name": "C.B. Dunbar Hospital",
+    "type": "Hospital",
+    "county": "Grand Bassa",
+    "district": "Buchanan",
+    "contact": "231-88-456-789",
+    "gps": "5.8811,-10.0467",
+    "services": "General Medicine, Surgery, Maternity, Emergency, Laboratory"
+  },
+  {
+    "name": "Compound #3 Health Center",
+    "type": "Health Center",
+    "county": "Grand Bassa",
+    "district": "Buchanan",
+    "contact": "231-77-567-890",
+    "gps": "5.8833,-10.0333",
+    "services": "Primary Care, Child Health, Vaccinations"
+  },
+  {
+    "name": "Owensgrove Health Center",
+    "type": "Health Center",
+    "county": "Grand Bassa",
+    "district": "Owensgrove",
+    "contact": "231-88-678-901",
+    "gps": "6.1667,-9.7500",
+    "services": "Primary Care, Maternity, Laboratory"
+  },
+  {
+    "name": "Tellewoyan Memorial Hospital",
+    "type": "Hospital",
+    "county": "Lofa",
+    "district": "Voinjama",
+    "contact": "231-77-789-012",
+    "gps": "8.4217,-9.7539",
+    "services": "General Medicine, Surgery, Maternity, Emergency, Mental Health"
+  },
+  {
+    "name": "Foya Health Center",
+    "type": "Health Center",
+    "county": "Lofa",
+    "district": "Foya",
+    "contact": "231-88-890-123",
+    "gps": "8.3833,-10.2000",
+    "services": "Primary Care, Maternity, Child Health, Vaccinations"
+  },
+  {
+    "name": "Zorzor Hospital",
+    "type": "Hospital",
+    "county": "Lofa",
+    "district": "Zorzor",
+    "contact": "231-77-901-234",
+    "gps": "8.0833,-9.4667",
+    "services": "General Medicine, Surgery, Maternity, Laboratory"
+  },
+  {
+    "name": "Bomi County Hospital",
+    "type": "Hospital",
+    "county": "Grand Cape Mount",
+    "district": "Robertsport",
+    "contact": "231-88-012-345",
+    "gps": "6.7500,-11.3667",
+    "services": "General Medicine, Surgery, Maternity, Emergency"
+  },
+  {
+    "name": "Robertsport Health Center",
+    "type": "Health Center",
+    "county": "Grand Cape Mount",
+    "district": "Robertsport",
+    "contact": "231-77-123-456",
+    "gps": "6.7542,-11.3689",
+    "services": "Primary Care, Maternity, Vaccinations"
+  },
+  {
+    "name": "C.H. Rennie Hospital",
+    "type": "Hospital",
+    "county": "Margibi",
+    "district": "Kakata",
+    "contact": "231-88-234-567",
+    "gps": "6.5144,-10.3489",
+    "services": "General Medicine, Surgery, Maternity, Pediatrics, Laboratory"
+  },
+  {
+    "name": "Margibi County Hospital",
+    "type": "Hospital",
+    "county": "Margibi",
+    "district": "Kakata",
+    "contact": "231-77-345-678",
+    "gps": "6.5167,-10.3500",
+    "services": "Emergency, General Medicine, Surgery, Pharmacy"
+  },
+  {
+    "name": "Firestone Medical Center",
+    "type": "Medical Center",
+    "county": "Margibi",
+    "district": "Harbel",
+    "contact": "231-88-456-789",
+    "gps": "6.2833,-10.3667",
+    "services": "Occupational Health, General Medicine, Emergency, Laboratory"
+  },
+  {
+    "name": "Martha Tubman Memorial Hospital",
+    "type": "Hospital",
+    "county": "Grand Gedeh",
+    "district": "Zwedru",
+    "contact": "231-77-567-890",
+    "gps": "6.0667,-8.1333",
+    "services": "General Medicine, Surgery, Maternity, Emergency, Laboratory"
+  },
+  {
+    "name": "Zwedru Health Center",
+    "type": "Health Center",
+    "county": "Grand Gedeh",
+    "district": "Zwedru",
+    "contact": "231-88-678-901",
+    "gps": "6.0700,-8.1300",
+    "services": "Primary Care, Child Health, Vaccinations"
+  },
+  {
+    "name": "Sinoe County Hospital",
+    "type": "Hospital",
+    "county": "Sinoe",
+    "district": "Greenville",
+    "contact": "231-77-789-012",
+    "gps": "5.0167,-9.0333",
+    "services": "General Medicine, Surgery, Maternity, Emergency"
+  },
+  {
+    "name": "Greenville Health Center",
+    "type": "Health Center",
+    "county": "Sinoe",
+    "district": "Greenville",
+    "contact": "231-88-890-123",
+    "gps": "5.0200,-9.0300",
+    "services": "Primary Care, Maternity, Vaccinations, Laboratory"
+  },
+  {
+    "name": "J.J. Dossen Hospital",
+    "type": "Hospital",
+    "county": "Maryland",
+    "district": "Harper",
+    "contact": "231-77-901-234",
+    "gps": "4.3750,-7.7167",
+    "services": "General Medicine, Surgery, Maternity, Emergency, Laboratory"
+  },
+  {
+    "name": "Harper Health Center",
+    "type": "Health Center",
+    "county": "Maryland",
+    "district": "Harper",
+    "contact": "231-88-012-345",
+    "gps": "4.3783,-7.7200",
+    "services": "Primary Care, Child Health, Vaccinations"
+  },
+  {
+    "name": "River Cess County Hospital",
+    "type": "Hospital",
+    "county": "River Cess",
+    "district": "Cestos City",
+    "contact": "231-77-123-456",
+    "gps": "5.9000,-9.6000",
+    "services": "General Medicine, Maternity, Emergency, Laboratory"
+  },
+  {
+    "name": "Cestos City Health Center",
+    "type": "Health Center",
+    "county": "River Cess",
+    "district": "Cestos City",
+    "contact": "231-88-234-567",
+    "gps": "5.9033,-9.5967",
+    "services": "Primary Care, Maternity, Vaccinations"
+  },
+  {
+    "name": "Grand Kru County Hospital",
+    "type": "Hospital",
+    "county": "Grand Kru",
+    "district": "Barclayville",
+    "contact": "231-77-345-678",
+    "gps": "4.6000,-8.2333",
+    "services": "General Medicine, Surgery, Maternity, Emergency"
+  },
+  {
+    "name": "Barclayville Health Center",
+    "type": "Health Center",
+    "county": "Grand Kru",
+    "district": "Barclayville",
+    "contact": "231-88-456-789",
+    "gps": "4.6033,-8.2300",
+    "services": "Primary Care, Child Health, Vaccinations"
+  },
+  {
+    "name": "River Gee County Hospital",
+    "type": "Hospital",
+    "county": "River Gee",
+    "district": "Fish Town",
+    "contact": "231-77-567-890",
+    "gps": "4.9667,-7.9333",
+    "services": "General Medicine, Maternity, Emergency, Laboratory"
+  },
+  {
+    "name": "Fish Town Health Center",
+    "type": "Health Center",
+    "county": "River Gee",
+    "district": "Fish Town",
+    "contact": "231-88-678-901",
+    "gps": "4.9700,-7.9300",
+    "services": "Primary Care, Maternity, Vaccinations"
+  },
+  {
+    "name": "Gbarpolu County Hospital",
+    "type": "Hospital",
+    "county": "Gbarpolu",
+    "district": "Bopolu",
+    "contact": "231-77-789-012",
+    "gps": "7.4167,-10.8167",
+    "services": "General Medicine, Surgery, Maternity, Emergency"
+  },
+  {
+    "name": "Bopolu Health Center",
+    "type": "Health Center",
+    "county": "Gbarpolu",
+    "district": "Bopolu",
+    "contact": "231-88-890-123",
+    "gps": "7.4200,-10.8133",
+    "services": "Primary Care, Child Health, Vaccinations"
+  },
+  {
+    "name": "Bomi County Hospital",
+    "type": "Hospital",
+    "county": "Bomi",
+    "district": "Tubmanburg",
+    "contact": "231-77-901-234",
+    "gps": "6.8500,-10.8167",
+    "services": "General Medicine, Surgery, Maternity, Emergency, Laboratory"
+  },
+  {
+    "name": "Tubmanburg Health Center",
+    "type": "Health Center",
+    "county": "Bomi",
+    "district": "Tubmanburg",
+    "contact": "231-88-012-345",
+    "gps": "6.8533,-10.8133",
+    "services": "Primary Care, Maternity, Vaccinations, Laboratory"
+  }
+]
